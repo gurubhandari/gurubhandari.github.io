@@ -53,9 +53,6 @@ Pokhara University, Nepal
 [ResearchGate](https://www.researchgate.net/profile/Guru_Bhandari)
 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
 .. note::
 
    This is a personal site of Guru Prasad Bhandari: https://gurubhandari.github.io/
@@ -65,7 +62,7 @@ Contents
 
 .. toctree::
 
-   usage
-   storage
-   tutorials
-   access
+   experience
+   education
+   projects
+   publication
