@@ -30,7 +30,33 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme'
+# html_theme = 'sphinx_rtd_theme'
+html_theme = 'alabaster'
+
+html_favicon = 'HK-logo.png'
+
+html_static_path = ['_static']
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+
+# html theme options for alabaster
+html_theme_options = {
+    'logo': 'HK-logo.png',
+    'logo_name': 'false',
+    'github_user': 'gurubhandari',
+    'github_repo': 'website',
+    'fixed_sidebar': 'false',
+    # 'description': description,
+    'badge_branch': 'master',
+    'github_banner': 'false',
+    'github_button': 'false',
+    'travis_button': 'false',
+    'show_powered_by': 'true',
+    'show_relbar_bottom': 'true',
+    'extra_nav_links': {
+        'GitHub/gurubhandari': 'https://github.com/gurubhandari',
+        'LinkedIn/gurubhandari': 'https://www.linkedin.com/in/gurubhandari/'
+    }
+}

@@ -1,6 +1,12 @@
 Biography of Guru Prasad Bhandari
 ======================================================================
 
+About me
+^^^^^^^^
+.. image:: guru.jpg
+    :align: right
+    :width: 200px
+
 Guru Prasad Bhandari is a software engineer at Kristiania University College 
 and works for the ENViSEC project. Bhandari has published several research papers 
 in the fields of software security, fault diagnosis, and machine learning.
