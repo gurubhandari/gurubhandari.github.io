@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'guru_bio'
+project = 'Guru Bhandari'
 copyright = '2022, Guru Prasad Bhandari'
 author = 'Guru Prasad Bhandari'
 
 release = '0.1'
-version = '0.1.0'
+version = 'Biodata'
 
 # -- General configuration
 
