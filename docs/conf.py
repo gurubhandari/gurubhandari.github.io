@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'HPC of KUC'
+copyright = '2022, Kristiania University College'
+author = 'Guru Prasad Bhandari'
 
 release = '0.1'
 version = '0.1.0'
