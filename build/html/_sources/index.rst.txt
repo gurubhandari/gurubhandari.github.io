@@ -52,7 +52,7 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This is a personal site of Guru Prasad Bhandari: https://gurubhandari.github.io/
 
 Contents
 --------
