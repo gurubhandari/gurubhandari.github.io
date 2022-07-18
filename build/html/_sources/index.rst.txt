@@ -49,8 +49,9 @@ Pokhara University, Nepal
 
 **Professional Links**
 
-[LinkedIn](https://www.linkedin.com/in/guru-bhandari-39333b89)
-[ResearchGate](https://www.researchgate.net/profile/Guru_Bhandari)
+You can learn more about my background on `LinkedIn <https://www.linkedin.com/in/guru-bhandari-39333b89>`_, 
+`ResearchGate <https://www.researchgate.net/profile/Guru_Bhandari>`_, and 
+`GitHub <https://github.com/gurubhandari>`_.
 
 
 .. note::
