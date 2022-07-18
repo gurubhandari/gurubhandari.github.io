@@ -6,7 +6,7 @@ provides students and researchers with the resources they need to conduct comple
 science, engineering and mathematics.
 
 Available HPC Resources:
---------
+----------------------------
 
 **Hardware**
 
