@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'HPC of KUC'
-copyright = '2022, Kristiania University College'
+project = 'guru_bio'
+copyright = '2022, Guru Prasad Bhandari'
 author = 'Guru Prasad Bhandari'
 
 release = '0.1'
