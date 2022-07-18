@@ -1,34 +1,50 @@
-High Performance Computing platform of Kristiania University College!
+Biography of Guru Prasad Bhandari
 ======================================================================
 
-The High Performance Computing (HPC) platform at Kristiania University College (Kristiania Hoyskole)
-provides students and researchers with the resources they need to conduct complex experiments in 
-science, engineering and mathematics.
+Guru Prasad Bhandari is a software engineer at Kristiania University College 
+and works for the ENViSEC project. Bhandari has published several research papers 
+in the fields of software security, fault diagnosis, and machine learning.
 
-Available HPC Resources:
+Bhandari's research mainly focuses on software engineering, cybersecurity, 
+and machine learning. In 2015, he received Silver Jubilee Scholarship Award 
+given by the Indian Council for Cultural Relations(ICCR) to pursue PhD in India.
+
+Areas of expertise:
 ----------------------------
+Machine learning
+Python Programming
+Source Code Analysis
+HPC Server Scripting
+IoT Security
 
-**Hardware**
+**Work Experience**
 
-AMD 32-core CPU, total 128 cores.
-1024GB RAM.
-40TB usable flash storage for virtual machines.
-145TB storage for data.
-GPU-computing upgrade possible without replacing the node.
-Top of rack switches
+2022 - now
+Software Engineer
+Kristiania University College
 
-**Software and License**
+2019 - now
+Postdoctoral Research Fellow
+Simula Research Laboratory
 
-One-time 155.000NOK
-VMware vSphere Standard 4 nodes
-VMware SAN Advanced 4 nodes
+**Education**
 
-**Operational running costs**
+2015 - 2019
+PhD in Computer Applications
+Banaras Hindu University, India
 
-VMware: 75.000NOK
-Windows Datacentre: 52.000NOK
-Colocation at Digiplex: 162.000NOK
-Total: 289.000NOK per year
+2011 - 2014
+Master of Computer Applications
+Banaras Hindu University, India
+
+2006 - 2010
+Bachelor of Computer Application
+Pokhara University, Nepal
+
+**Professional Links**
+
+[LinkedIn](https://www.linkedin.com/in/guru-bhandari-39333b89)
+[ResearchGate](https://www.researchgate.net/profile/Guru_Bhandari)
 
 
 Check out the :doc:`usage` section for further information, including
