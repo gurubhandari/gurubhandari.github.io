@@ -1,8 +1,8 @@
 Biography of Guru Prasad Bhandari
 ======================================================================
 
-About me
-^^^^^^^^
+About Guru
+^^^^^^^^^^^^^
 .. image:: guru.jpg
     :align: right
     :width: 200px
