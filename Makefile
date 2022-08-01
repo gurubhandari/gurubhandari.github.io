@@ -6,7 +6,7 @@
 SPHINXOPTS    ?=
 SPHINXBUILD   ?= /Users/guru/miniconda/envs/hpc/bin/sphinx-build
 SOURCEDIR     = docs
-BUILDDIR      = build
+BUILDDIR      = 
 
 # Put it first so that "make" without argument is like "make help".
 help:
